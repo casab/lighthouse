@@ -500,6 +500,7 @@ version = "0.1.0"
 dependencies = [
  "clap 2.33.0 (registry+https://github.com/rust-lang/crates.io-index)",
  "dirs 2.0.2 (registry+https://github.com/rust-lang/crates.io-index)",
+ "eth2_ssz 0.1.2",
  "eth2_testnet_config 0.2.0",
  "hex 0.3.2 (registry+https://github.com/rust-lang/crates.io-index)",
  "types 0.2.0",
